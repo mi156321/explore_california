@@ -1,4 +1,3 @@
-java:
 hike
 canoe
 math
